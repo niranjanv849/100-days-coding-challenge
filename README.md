@@ -7,6 +7,11 @@
 ## Join with Me 🕺
 🔗 Fork this repo
 📁 Create a Folder with your <b>NAME</b> and add <b>README.md</b> for your info
+<br></br>
+(or)
+<br></br>
+Try Requesting access to this repo, I'll add you shortly🎉
+<br></br>
 🚀 What then? code streak 🔥
 <br></br>
 ## ❓ What problems I need to solve
@@ -23,6 +28,5 @@
 <li>Finally, click Commit new file.</li>
 </ol>
 
-<br></br>
 <br></br>
 🚀All set! Let's gooooo!
