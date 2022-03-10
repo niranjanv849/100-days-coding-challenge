@@ -36,3 +36,30 @@ int main(){
     printf("%.2lf + %.2lf = %.2lf",a,b,SumOfNumbers);
     return 0;
 }
+
+
+//Given an integer N, print the number of days in the Nth month of the year using Switch.
+
+#include<stdio.h>
+int main(){
+    int N;
+    scanf("%d",&N);
+    switch(N){
+        case 1:
+        case 3:
+        case 5:
+        case 7:
+        case 8:
+        case 10:
+        case 12:printf("31 Days");break;
+        case 2:printf("28 Days");break;
+        case 4:
+        case 6:
+        case 9:
+        case 11:printf("30 Days");break;
+        default:printf("Invalid input!");
+    }
+    return 0;
+}
+
+//
